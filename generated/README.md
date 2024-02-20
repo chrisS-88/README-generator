@@ -1,8 +1,9 @@
 
-  # tester
-  
+  # ReadMe Generator
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
   ## Description
-  bester
+  Skysail Brethren of the Coast bilge water draught crack Jennys tea cup draft driver lugger six pounders capstan.
   
   ## Table of Contents
   
@@ -14,20 +15,20 @@
   - [Questions](#questions)
   
   ## Installation
-  grester
+  Plate Fleet gunwalls jack yard dance the hempen jig scurvy code of conduct parley brig. Hang the jib maroon chandler Blimey grog port sloop reef pirate cackle fruit. 
   
   ## Usage
-  zester
+  nterloper strike colors salmagundi fluke Sail ho to go on account smartly chase rutters pillage. Bilged on her anchor Sea Legs square-rigged brigantine handsomely barkadeer crow's nest keel quarter hornswaggle. 
   
   ## License
-  Apache 2.0
-  
+  This project is covered under the MIT license.
+
   ## Contributing
-  guide
+  Lee spanker draught reef sails coffer jolly boat clipper coxswain square-rigged spike. Cable handsomely Jack Tar hulk keel fore salmagundi rope's end Blimey hearties. 
   
   ## Tests
-  slide
-  
+  Hogshead cog mizzenmast rum long clothes trysail chandler fathom fire in the hole jack. Run a shot across the bow landlubber or just lubber Nelsons folly handsomely barkadeer booty hearties gangway list chantey. 
+
   ## Questions
   You can check out my Github [HERE](https://github.com/chrisS-88).
 

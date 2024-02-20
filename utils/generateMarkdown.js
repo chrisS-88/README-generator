@@ -1,8 +1,13 @@
+// bring in generate badge function
+const { generateLicenseBadge } = require("./generateBadges");
+
 // function to generate markdown for README
 function generateMarkdown(data) {
+  const licenseBadge = generateLicenseBadge(data.license);
   return `
   # ${data.projectTitle}
-  
+  ${licenseBadge}
+
   ## Description
   ${data.description}
   
@@ -22,14 +27,14 @@ function generateMarkdown(data) {
   ${data.usage}
   
   ## License
-  ${data.license}
-  
+  This project is covered under the ${data.license} license.
+
   ## Contributing
   ${data.contribition}
   
   ## Tests
   ${data.tests}
-  
+
   ## Questions
   You can check out my Github [HERE](https://github.com/${data.github}).
 
